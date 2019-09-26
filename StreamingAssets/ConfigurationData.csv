@@ -1,0 +1,2 @@
+PaddleMoveUnitsPerSecond,BallImpulseForce,BallLifeTime, MinSpwanSeconds, MaxSpwanSeconds,NumOfBalls
+50,800,10,5,10,20
